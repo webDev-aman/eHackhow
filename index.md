@@ -1,6 +1,6 @@
 # C Language
 
-<hr>
+___
 <br>
 
 - [C Language](#c-language)
@@ -30,7 +30,7 @@
       - [Assignment Operators](#assignment-operators)
       - [Miscellaneous Operators](#miscellaneous-operators)
 
-<hr>
+___
 <br>
 <br>
 
@@ -77,7 +77,9 @@ Code Runner
 
     Install code runner extension in VS Code
 
-<br><br><hr><br><br>
+<br><br>
+___
+<br><br>
 
 ## Structure of C
 
@@ -91,7 +93,9 @@ Code Runner
 | return (0);        | Return Value                     |
 | }                  |                                  |
 
-<br><br><hr><br><br>
+<br><br>
+___
+<br><br>
 
 ## Header Files
 
@@ -110,7 +114,9 @@ Syntax to include a header files in C:
 #include "file_name.h"
 ```
 
-<br><br><hr><br><br>
+<br><br>
+___
+<br><br>
 
 ## Main Method / Function
 
@@ -124,7 +130,9 @@ void main()
 int is a integer return type.
 Program start from main method
 
-<br><br><hr><br><br>
+<br><br>
+___
+<br><br>
 
 ## Variable Declaration
 
@@ -141,7 +149,9 @@ int main()
 
 int is a integer variable.
 
-<br><br><hr><br><br>
+<br><br>
+___
+<br><br>
 
 ## Program Body
 
@@ -159,7 +169,9 @@ int main()
 
 All the code of program is written into body.
 
-<br><br><hr><br><br>
+<br><br>
+___
+<br><br>
 
 ## Return Statement
 
@@ -179,7 +191,9 @@ int main()
 
 Return statement returns values from function.
 
-<br><br><hr><br><br>
+<br><br>
+___
+<br><br>
 
 ## Flow of Program
 
@@ -198,7 +212,9 @@ gcc -Wall -save-temps <file-name.c> -o <file-name>(you want to give fil
 gcc -Wall -save-temps basic.c -o main
 ```
 
-<br><br><hr><br><br>
+<br><br>
+___
+<br><br>
 
 ## C Program Based on
 
@@ -210,7 +226,9 @@ gcc -Wall -save-temps basic.c -o main
 | string literals | A "string literal" is a sequence of characters from the source character set enclosed in double quotation marks (" ") |
 | symbols         | "Identifiers" or "symbols" are the names you supply for variables, types, functions, and labels in your program       |
 
-<br><br><hr><br><br>
+<br><br>
+___
+<br><br>
 
 ## C Keywords
 
@@ -225,7 +243,9 @@ gcc -Wall -save-temps basic.c -o main
 | default  | goto   | sizeof   | volatile |
 | const    | float  | short    | unsigned |
 
-<br><br><hr><br><br>
+<br><br>
+___
+<br><br>
 
 ## Variables and Data Type
 
@@ -244,7 +264,9 @@ Each variable in C has an associated data type. Each data type requires differen
 - Enumeration
 - Void
 
-<br><br><hr><br><br>
+<br><br>
+___
+<br><br>
 
 ## C Data Types
 
@@ -480,7 +502,9 @@ Bitwise operator working on binary no.
     </tr>
 </table>
 
-<br><br><hr><br><br>
+<br><br>
+___
+<br><br>
 
 
 <style>
