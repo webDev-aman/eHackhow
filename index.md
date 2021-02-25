@@ -2,7 +2,7 @@
 
 ## C Program
 
-[C Language](c_program.md)
+[C Language](cprogram.md)
 
 ## Commands
 
