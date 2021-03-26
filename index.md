@@ -8,6 +8,6 @@
 
 [Commands](commands.md)
 
-## VS code for android
+## VS code for android.
 
 [VS Code for Android](VS_code_installation_for_Mobile.md)
