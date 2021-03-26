@@ -1,7 +1,7 @@
 # Lets start
 
 ## Step 1:Install Ubuntu in Termux
-Note (ubuntu in Command line format may neet 800-900mb Data)
+Note (ubuntu in Command line format may need 800-900mb Data)
 
 a)```Install Termux in your phone:``` [Download Now](https://play.google.com/store/apps/details?id=com.termux)
 
