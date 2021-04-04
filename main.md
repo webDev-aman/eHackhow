@@ -41,7 +41,6 @@
       - [3. if else if Statement](#3-if-else-if-statement)
       - [4. Nested if Statement](#4-nested-if-statement)
 
-<script data-ad-client="ca-pub-6467313882219160" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 ---
 <br>
